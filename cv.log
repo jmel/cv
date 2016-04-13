@@ -1,0 +1,129 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=latex 2010.7.21)  28 FEB 2013 13:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cv.tex
+(./cv.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(./cv.cls (/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@title=\box26
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/Users/jmel/bib/def.tex) (./cv.aux)
+\openout1 = `cv.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 61.
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
+
+ []
+
+[1
+
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 213--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--272
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 314--328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--379
+
+ []
+
+[4]
+Missing character: There is no Õ in font cmr10!
+ [5
+
+]
+Overfull \hbox (11.11594pt too wide) in paragraph at lines 428--430
+[]\OT1/cmr/m/sc/10 Metal Abun-dances of KISS Galax-ies. I. Coarse Metal Abun-da
+nces and the Metallicity-
+ []
+
+Missing character: There is no ¿ in font cmr10!
+
+Overfull \hbox (6.3287pt too wide) in paragraph at lines 439--441
+[]\OT1/cmr/m/sc/10 Spectral En-ergy Dis-tri-bu-tions of Lo-cal Lu-mi-nous and U
+l-tra-lu-mi-nous In-frared Galax-
+ []
+
+Missing character: There is no Ž in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+[6]
+Missing character: There is no Ž in font cmr10!
+ [7]
+Missing character: There is no Ž in font cmr10!
+ [8]
+Missing character: There is no Ž in font cmr10!
+ [9] (./cv.aux) ) 
+Here is how much of TeX's memory you used:
+ 387 strings out of 493748
+ 3984 string characters out of 3143569
+ 57780 words of memory out of 3000000
+ 3750 multiletter control sequences out of 15000+200000
+ 5753 words of font info for 21 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 29i,11n,43p,984b,282s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on cv.dvi (9 pages, 40216 bytes).

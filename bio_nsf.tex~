@@ -1,0 +1,154 @@
+\documentclass[12pt]{article}
+\setlength{\textheight}{8.75 in}
+\setlength{\textwidth}{6. in}
+\setlength{\oddsidemargin}{-0.2 cm}
+\setlength{\topmargin}{-0.2 cm}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0.pt}
+\lfoot{\small Jason Melbourne}
+\rfoot{\small NSF Postdoc Bio Sketch}
+\cfoot{\thepage/2}
+\begin{document}
+
+\begin{center}
+Biographical Sketch\\
+{\Large\bf{Jason Melbourne}}\\
+\textnormal
+Graduate Student University of California Santa Cruz
+\end{center}
+
+\noindent
+{\bf{Professional Preparation}}
+
+\begin{tabular}[r c c]
+University of California Berkeley & Physics and Astronomy (double major) & B.A. 1995 \\
+Wesleyan University & Astronomy & M.A. 1999 \\
+University of California Santa Cruz & Astronomy & Ph.D. 2006\\
+\end{tabular}
+
+\noindent
+{\bf{Publications}} \\
+\emph{Relevant  to Proposal}
+\begin{itemize}{ }
+\addtolength{\itemsep}{-0.25cm}
+
+\item Melbourne, J., Koo, D. C., Le Floc’h, E. “Optical Morphology Evolution of Infrared Luminous Galaxies in GOODS-N”. \emph{The Astrophysical Journal Letters}. Accepted for Publication, 2005\item Melbourne, J., Wright, S. A., Barczys, M., Bouchez, A. H., Chin, J., van Dam, M. A., Hartman, S., Johansson, E., Koo, D. C., Lafon, R., Larkin, J., Le Mignant, D., Lotz, J., Max, C. E., Pennington, D. M., Stomski, P. J., Summers, D., Wizinowich, P. L. “Merging Galaxies in GOODS-S: First Extragalactic Results from Keck Laser Adaptive Optics”. \emph{The Astrophysical Journal}. Volume 625, Issue 1, pp. L27-L30, 2005
+
+\item Melbourne, Jason, Phillips, Andrew, Salzer, John J., Gronwall, Caryl, Sarajedini, Vicki L. “Metal Abundances of KISS Galaxies. II. Nebular Abundances of 12 Low-Luminosity Emission-Line Galaxies”. \emph{The Astronomical Journal}. Volume 127, Issue 2, pp. 686-703, 2004\item Melbourne, Jason, Salzer, John J. “Metal Abundances of KISS Galaxies. I. Coarse Metal Abundances and the Metallicity-Luminosity Relation”. \emph{The Astronomical Journal}. Volume 123, Issue 5, pp. 2302-2311, 2002
+
+\item Salzer, John J., Lee, Janice C., Melbourne, Jason, Hinz, Joannah L., Alonso-Herrero, Almudena, Jangren, Anna. “Metal Abundances of KISS Galaxies. IV. Galaxian Luminosity-Metallicity Relations in the Optical and Near-Infrared”. \emph{The Astrophysical Journal}. Volume 624, Issue 2, pp. 661-679, 2005
+\end{itemize}
+
+\emph{Unrelated to Proposal}
+\begin{itemize}{ }
+\addtolength{\itemsep}{-0.25cm}
+
+\item Melbourne, J., Guhathakurta, P. “Measuring the Slope of the Dust Extinction Law and the Power Spectrum of Dust Clouds Using Differentially Reddened Globular Clusters”. \emph{The Astronomical Journal}. Volume 128, Issue 1, pp. 271-286, 2004
+
+\item Melbourne, Jason, Sarajedini, Ata, Layden, Andrew, Martins, Donald H. “CCD Photometry of the Globular Cluster NGC 4833 and Extinction Near the Galactic Plane”. \emph{The Astronomical Journal}. Volume 120, Issue 6, pp. 3127-3138, 2000 
+
+\item Lee, Janice C., Salzer, John J., Melbourne, Jason. “Metal Abundances of KISS Galaxies. III. Nebular Abundances for Fourteen Galaxies and the Luminosity-Metallicity Relationship for H II Galaxies”. \emph{The Astrophysical Journal}. Volume 616, Issue 2, pp. 752-767, 2005\item Prochaska, Jason X., Bloom, Joshua S., Chen, Hsiao-Wen, Hurley, Kevin C., Melbourne, Jason, Dressler, Alan,  Graham, James R., Osip, David J., Vacca, W. D. “The Host Galaxy of GRB 031203: Implications of Its Low Metallicity, Low Redshift, and Starburst Nature”. \emph{The Astrophysical Journal}. Volume 611, Issue 1, pp. 200-207, 2004\item Wegner, Gary, Salzer, John J., Jangren, Anna, Gronwall, Caryl, Melbourne, Jason. “Spectroscopy of KISS Emission-Line Galaxy Candidates. I. MDM Observations”. \emph{The Astronomical Journal}. Volume 125, Issue 5, pp. 2373-2392, 2003
+\end{itemize}
+\noindent
+{\bf{Synergistic Activities}} \\
+\begin{itemize}
+\addtolength{\itemsep}{-0.25cm}
+\item[2005] Organized and Chaired the The Center for Adaptive Optics Extragalactic AO Workshop, University of California Santa Cruz, August 2005.
+\item[2005] Emily De La Garza, Center for Adaptive Optics Undergraduate summer intern\\ \emph{Stellar Population Synthesis Models of Synthetic Galaxies}. 
+\item[2005] Lead Instructor \\ Center for Adaptive Optics Mainland Short Course for Undergraduates, drawing especially from under-represented groups
+\item[2003] Project Advisor \\COSMOS, an astronomy summer program for under-represented high school students
+\item[1998] -- 1999 Astronomy Teacher \\ Project Astro, Astronomy for Elementary School Classes
+\end{itemize}
+
+\noindent
+{\bf{Collaborators and other Affiliations}}\\
+\emph{Collaborators and Co-Editors}\\
+Alonso-Herrero	A.	U. of Arizona;
+\item	Barczys	M.	UCLA;
+\item	Bouchez	A. H.	Caltech;
+\item	Chin	J.	Keck Observatory;
+\item	Faber	S.	UC Santa Cruz;
+\item	Gronwall	C.	Penn State;
+\item	Guhathakurta	P.	UC Santa Cruz;
+\item	Hartman	S.	Keck Observatory
+\item	Hinz	J. L.	U. Arizona
+\item	Jangren	A.	Wesleyan U.
+\item	Johansson	E.	Keck Observatory
+\item	Koo	D. C.	UC Santa Cruz
+\item	Lafon	R.	Keck Observatory
+\item	Larkin	J.	UCLA
+\item	Layden	A.	 Bowling Green State University
+\item	Le Floc’h	E.	U. of Arizona
+\item	Le Mignant	D.	Keck Observatory
+\item	Lee	J. C.	U. of Arizona
+\item	Lotz	J.	NOAO
+\item	Martins	D.	U. of Alaska
+\item	Max	C.	UC Santa Cruz
+\item	Pennington	D. M.  LLNL
+\item	Phillips	A.	UC Santa Cruz
+\item	Prochaska	J. 	UC Santa Cruz
+\item	Salzer	J. J.	Wesleyan U.
+\item	Sarajedini	V.	U. of Florida
+\item	Sarajedini	A.	U. of Florida
+\item	Stomski	P. J.	Keck Observatory
+\item	Summers	D.	Keck Observatory
+\item	van Dam	M. A.	Keck Observatory
+\item	Wegner	G.	Darmouth College
+\item	Wizinowich	P. L.	Keck Observatory
+\item	Wright	S.	UCLA
+\end{itemize}
+\emph{Graduate Advisors}
+ \begin{itemize}{ }
+\addtolength{\itemsep}{-0.25cm}
+\item Koo D. C. University of California Santa Cruz (Ph.D. Thesis Advisor)
+ \item	Salzer	J. J.	Wesleyan University (Master's Thesis Advisor)
+\end{itemize}
+
+
+
+
+%{\bf{\Large Publications:}}\\
+%\noindent
+%Melbourne, J., Phillips, A., Salzer, J.~J. et al. ``Metal Abundances of KISS 
+%Galaxies. II. Nebular Abundances of Twelve Low-Luminosity Emission-Line
+%Galaxies.'' \ 2004, AJ (accepted)\\ 
+
+%\noindent
+%Melbourne, J.~\& Guhathakurta, P. ``Measuring the Slope of the Galactic
+%Dust Extinction Law, $R_V$, and the Angular Power Spectrum of Dust Clouds 
+%in the Direction of Differentially-Reddened Globular Clusters.'' 
+%\ 2004, AJ (in prep.)\\
+
+%\noindent
+%Melbourne,
+%J.~\& Guhathakurta, P. ``Measuring the Angular Power Spectrum of Dust 
+%Clouds in the Direction of Differentially-Reddened Globular Clusters.''
+%\ 2003, Astrophysics of Dust, Estes Park, Colorado, 
+%May 26 - 30, 2003.~Edited by Adolf N.~Witt.,  \\
+
+%\noindent
+%Melbourne, J.~\& 
+%Salzer, J.~J. ''Metal Abundances of KISS Galaxies. I. Coarse Metal 
+%Abundances and the Metallicity-Luminosity Relation.''\ 2002, AJ, 123, 2302 \\
+
+%\noindent
+%Melbourne, J., Sarajedini, A., Layden, 
+%A., \& Martins, D.~H. ``CCD Photometry of the Globular Cluster NGC 4833 
+%and Extinction Near the Galactic Plane.'' \ 2000, AJ, 120, 3127 \\
+
+%\noindent
+%Deustua, S.~et al.''Supernovae''\ 
+%1995, IAU CIRC, 6270, 1 \\
+
+%\noindent
+%Wegner, G., Salzer, 
+%J.~J., Jangren, A., Gronwall, C., \& Melbourne, J. ``Spectroscopy of KISS 
+%Emission-Line Galaxy Candidates. I. MDM Observations.''\ 2003, AJ, 125, 2373 \\
+
+
+\end{document}
+% LocalWords:  UC Astro Salzer al AJ Guhathakurta Metallicity Sarajedini Layden
+% LocalWords:  CCD NGC Deustua IAU CIRC Wegner Jangren Gronwall MDM
